@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
+    String tes;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
